@@ -1,5 +1,5 @@
 # aboa
-GPS time time series analysis for Aboa research station in Dronning Maud Land, East Antarctica
+GPS time time series analysis using Fourier Transform and Singular Spectral Analysis
 
 Took Help as a Reference from this paper: https://www.sciencedirect.com/science/article/pii/S0273117722002022
 
